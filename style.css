@@ -1,0 +1,91 @@
+li {
+  font-family: sans-serif;
+  font-size: 25px; }
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-weight: bold; }
+
+a {
+  font-size: 30px;
+  color: white; }
+
+#arrow {
+  font-size: 70px; }
+
+b {
+  font-size: 300px; }
+
+#margin {
+  margin-top: 100px; }
+
+.smallscreen {
+  display: none; }
+
+@media (max-width: 800px) {
+  .smallscreen {
+    display: inline-block; }
+
+  .bigscreen {
+    display: none; } }
+.container {
+  display: flex;
+  flex-wrap: wrap; }
+
+h2::selection {
+  color: blue;
+  background-color: red; }
+
+div div p {
+  color: darkgoldenrod; }
+
+.nav-masthead .active {
+  color: white; }
+
+.nav-masthead a {
+  color: grey; }
+
+header {
+  background-color: black; }
+
+.para {
+  font-size: 30px; }
+
+.margin {
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+.card-title {
+  font-weight: bold; }
+
+.card-text {
+  color: black; }
+
+#skills {
+  padding-left: 140px;
+  font-weight: bold; }
+
+.padding {
+  padding-left: 100px;
+  padding-right: 100px; }
+
+.ironman {
+  position: absolute;
+  left: 16px; }
+
+.image {
+  position: relative;
+  width: 100%; }
+
+p1 {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+  width: 100%;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 100px; }
+
+/*# sourceMappingURL=style.css.map */
