@@ -13,6 +13,6 @@ Web Programming with Python and JavaScript:
 
 5.For smaller screens the image in index.html dissappears and text appears.
 
-6.Multiple Bootstrap components have been used like the table in Resume.html.The hyperlinks in index.html makes use of Bootstrap grid model for allignment.
+6.Multiple Bootstrap components have been used like the table in Resume.html.The interests.html has col-sm class and makes use of the bootstrap grid model.
 
 7.style.scss is the sass file used.
